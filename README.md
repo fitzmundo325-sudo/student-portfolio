@@ -13,6 +13,7 @@ I am an IT student interested in programming web development and networking
 - Git and Github
 - Javascript 
 - PHP
+- MySQL
 
 ## Projects
 - Student Portfolio
