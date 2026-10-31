@@ -11,7 +11,9 @@ I am an IT student interested in programming web development and networking
 - Flask
 - Git and Github
 - Javascript 
-  
+- PHP
+- MySQL
+
 
 ## Projects
 - Student Portfolio
